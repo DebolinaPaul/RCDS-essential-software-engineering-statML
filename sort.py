@@ -1,6 +1,6 @@
 def pivot_sort(arr):
     """
-    Sort a list in ascending order using pivot sort (quicksort).
+    Sort a list in ascending order using pivot sort (quicksort) Hello.
     
     Args:
         arr: List of comparable elements to sort
